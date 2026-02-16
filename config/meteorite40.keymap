@@ -85,7 +85,7 @@
 
     keymap {
         compatible = "zmk,keymap";
-        layout = &LAYOUT_split_space;
+        layout = &LAYOUT_SPLIT_SPACE;
 
         win_default_layer {
             display-name = "BASE";
